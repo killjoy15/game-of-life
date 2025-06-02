@@ -1,5 +1,5 @@
 # game-of-life
-
+123
 cmake ..
 
 cmake --build . --config Release
